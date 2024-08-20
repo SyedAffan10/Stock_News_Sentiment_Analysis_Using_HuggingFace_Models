@@ -1,0 +1,5 @@
+Best Model Link:
+
+https://huggingface.co/mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis?text=Cathie+Wood+believes+Bitcoin+can+reach+as+high+as+%243.8+million+by+2030.+This+is+unlikely+and+relies+on+some+pie-in-the-sky+reasoning.
+
+Accuracy on our data: 52.00%
