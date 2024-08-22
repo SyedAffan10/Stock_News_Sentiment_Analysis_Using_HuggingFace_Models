@@ -1,4 +1,3 @@
-```markdown
 # Stock News Sentiment Analysis Using HuggingFace Models
 
 This project performs sentiment analysis on financial news articles using three different Hugging Face models. The analysis predicts whether the sentiment of each news article is positive, negative, or neutral.
@@ -33,4 +32,3 @@ Based on the sample data used, the accuracy of each model is as follows:
 - **[mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis](https://huggingface.co/mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis)**: 52%
 - **[yiyanghkust/finbert-tone](https://huggingface.co/yiyanghkust/finbert-tone)**: 37%
 - **[cardiffnlp/twitter-xlm-roberta-base-sentiment](https://huggingface.co/cardiffnlp/twitter-xlm-roberta-base-sentiment)**: 32%
-```
