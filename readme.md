@@ -33,3 +33,4 @@ Based on the sample data used, the accuracy of each model is as follows:
 - **[mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis](https://huggingface.co/mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis)**: 52%
 - **[yiyanghkust/finbert-tone](https://huggingface.co/yiyanghkust/finbert-tone)**: 37%
 - **[cardiffnlp/twitter-xlm-roberta-base-sentiment](https://huggingface.co/cardiffnlp/twitter-xlm-roberta-base-sentiment)**: 32%
+```
